@@ -4,7 +4,7 @@ This notebook showcases the development and training of a Convolutional Neural N
 
 ## Dataset Overview
 
-The dataset employed in this project comprises images representing both organic and recyclable waste. It is organized into two main sections: TRAIN and TEST. Each section further divides into subfolders "O" (organic waste images) and "R" (recyclable waste images), providing a labeled dataset for model training and evaluation.
+The dataset employed in this project comprises images representing both organic and recyclable waste. It is organized into two main sections: TRAIN and TEST. Each section is further divided into subfolders "O" (organic waste images) and "R" (recyclable waste images), providing a labeled dataset for model training and evaluation.
 
 ### Dataset Structure
 
@@ -50,7 +50,7 @@ This part encompasses the actual training of the CNN model using the specified p
 
 The training process is visualized by plotting the accuracy and loss over epochs. These visualizations aid in assessing the model's performance and identifying potential issues.
 
-### Part 9: Model Evaluation on Test Data
+### Part 9: Model Evaluation of Test Data
 
 The trained model is evaluated on the test dataset to assess its generalization capabilities. Performance metrics, such as accuracy, are computed.
 
@@ -60,4 +60,4 @@ The trained model is saved as "waste_classifier_model.h5" in the /content folder
 
 ## Author
 
-- [zahidparviz](https://github.com/zahidparviz)
+- [zahidparviz](https://github.com/zahidprvz)
